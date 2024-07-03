@@ -53,6 +53,7 @@ main {
 
 main > article {
     background-color:rgb(182, 215, 235);
+    border-radius: 30px;
     padding: 30px;
     font-size: 12px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
