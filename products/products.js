@@ -53,7 +53,7 @@ const products = [
         count: 2,
     },
     {
-        title: 'Duona',
+        title: 'Desra',
         count: 1,
     },
 ];
@@ -71,6 +71,9 @@ HTML += `
 }
 
 ulDOM.innerHTML = HTML;
+
+
+
 
 
 
