@@ -1,3 +1,9 @@
+import { header } from "../js/header.js";
+
+
+
+
+
 const h1DOM = document.getElementById('title');
 
 console.log(h1DOM);
@@ -89,3 +95,5 @@ console.log(totalLiDomination);
 const totalLiDomination2 = [...ulItemsDOM, ...olItemsDOM];
 console.log(totalLiDomination2);
 
+
+header();

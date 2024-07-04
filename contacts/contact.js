@@ -29,6 +29,10 @@ initialElementDOM.innerHTML = `
         text: 'Contact',
         link: '../contacts/',
     },
+    {
+        text: 'Sportas',
+        link: '../sportas/',
+    },
  ];
 
 
