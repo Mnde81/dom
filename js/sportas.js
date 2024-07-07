@@ -27,3 +27,4 @@ export function renderSportTable(data) {
         </tbody>
     </table>`
 }
+

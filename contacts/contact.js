@@ -33,6 +33,10 @@ initialElementDOM.innerHTML = `
         text: 'Sportas',
         link: '../sportas/',
     },
+    {
+        text: 'Skelbimai',
+        link: '../skelbimai/',
+    },
  ];
 
 

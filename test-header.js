@@ -8,4 +8,5 @@ headerDOM.innerHTML =`
     <a href="../test-header/">Test-header</a>
     <a href="../contacts/">Contact</a>
     <a href="../sportas/">Sportas</a>
+    <a href="../skelbimai/">Skelbimai</a>
 </nav>`;
